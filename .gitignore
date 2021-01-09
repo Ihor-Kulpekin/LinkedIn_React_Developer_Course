@@ -1,0 +1,10 @@
+blog-backend/node_modules
+react_linkein/node_modules
+react
+.DS_Store
+.idea/.gitignore
+.idea/blog.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
